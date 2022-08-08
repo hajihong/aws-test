@@ -1,0 +1,5 @@
+datasource:
+  driver-class-name: com.mysql.cj.jdbc.Driver
+  url: jdbc:mysql://database-1.c6qpo4nr80mp.ap-northeast-2.rds.amazonaws.com:3306/test_db?serverTimezone=Asia/Seoul&characterEncoding=UTF-8
+  username: admin
+  password: wlghd6438!
